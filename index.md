@@ -22,6 +22,13 @@ seoSecondaryKeywords:
   - jupyter notebooks
   - github pages
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The project focuses heavily on a Sphinx-based documentation site with integrated Jupyter notebooks
+  and automated GitHub Pages deployment. While it includes automation and data analysis elements,
+  the primary emphasis is on static site generation and documentation framework, aligning best with
+  the 'static' family which covers Sphinx, documentation, blogging, and static site deployment.
 ---
 
 # freight-website-up-to-date: Technical Overview and Implementation Notes
@@ -76,3 +83,4 @@ Several shell scripts (`doit.sh`, `pullit.sh`, `pushit.sh`, `install.sh`, `unins
 This project exemplifies a disciplined approach to integrating data analysis, documentation, and deployment for domain-specific knowledge dissemination. It balances practical scripting with modern documentation tools to create a maintainable and extensible platform for freight network analysis.
 
 Returning to this project, one should focus on dependency management, path configuration, and automation enhancements to streamline workflows and improve reproducibility.
+
