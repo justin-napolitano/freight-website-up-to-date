@@ -1,12 +1,28 @@
 ---
-slug: "github-freight-website-up-to-date"
-title: "freight-website-up-to-date"
-repo: "justin-napolitano/freight-website-up-to-date"
-githubUrl: "https://github.com/justin-napolitano/freight-website-up-to-date"
-generatedAt: "2025-11-23T08:57:34.445821Z"
-source: "github-auto"
+slug: github-freight-website-up-to-date
+title: 'freight-website-up-to-date: documentation and geospatial analysis of US freight networks'
+repo: justin-napolitano/freight-website-up-to-date
+githubUrl: https://github.com/justin-napolitano/freight-website-up-to-date
+generatedAt: '2025-11-23T08:57:34.445821Z'
+source: github-auto
+summary: >-
+  Documentation site integrating geospatial datasets, Jupyter notebooks, and automated deployment
+  for multi-modal US freight network analysis.
+tags:
+  - freight-analysis
+  - documentation
+  - geospatial
+  - sphinx
+  - jupyter
+  - github-pages
+seoPrimaryKeyword: freight network analysis
+seoSecondaryKeywords:
+  - geospatial analysis
+  - sphinx documentation
+  - jupyter notebooks
+  - github pages
+seoOptimized: true
 ---
-
 
 # freight-website-up-to-date: Technical Overview and Implementation Notes
 
