@@ -1,21 +1,27 @@
 ---
 slug: github-freight-website-up-to-date
 id: github-freight-website-up-to-date
-title: freight-website-up-to-date
+title: Freight Website Documentation and Deployment Guide
 repo: justin-napolitano/freight-website-up-to-date
 githubUrl: https://github.com/justin-napolitano/freight-website-up-to-date
 generatedAt: '2025-11-24T21:34:47.849Z'
 source: github-auto
 summary: >-
-  A data-driven documentation website focused on United States freight networks,
-  including rail, shipping, intermodal freight, and natural gas infrastructure.
-  This project integrates geospatial data, Jupyter Notebook analyses, and
-  Sphinx-based documentation to provide a comprehensive overview and analysis of
-  freight transportation.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A comprehensive guide to setting up and deploying a data-driven documentation
+  website for US freight networks using Python and Sphinx.
+tags:
+  - python
+  - sphinx
+  - geospatial
+  - documentation
+seoPrimaryKeyword: freight website documentation
+seoSecondaryKeywords:
+  - python documentation site
+  - geospatial data analysis
+  - automated deployment scripts
+  - sphinx documentation generator
+  - freight transportation analysis
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
