@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/freight-website-up-to-date
 generatedAt: '2025-11-24T21:34:47.849Z'
 source: github-auto
 summary: >-
-  Explore a comprehensive documentation website for US freight networks,
-  featuring geospatial data and automated deployment.
+  Explore a comprehensive documentation website for US freight networks, featuring geospatial data
+  and automated deployment.
 tags:
   - python
   - sphinx
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - sphinx documentation generator
   - freight transportation infrastructure
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -142,4 +142,5 @@ freight-website-up-to-date/
 - Automate testing of build and deployment pipelines.
 - Improve README with usage examples and screenshots.
 - Integrate CI/CD for automated deployment on push.
+
 
