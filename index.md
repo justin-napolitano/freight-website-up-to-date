@@ -1,13 +1,13 @@
 ---
 slug: github-freight-website-up-to-date
-title: 'freight-website-up-to-date: documentation and geospatial analysis of US freight networks'
+title: Freight Website Documentation and Analysis Overview
 repo: justin-napolitano/freight-website-up-to-date
 githubUrl: https://github.com/justin-napolitano/freight-website-up-to-date
 generatedAt: '2025-11-23T08:57:34.445821Z'
 source: github-auto
 summary: >-
-  Documentation site integrating geospatial datasets, Jupyter notebooks, and automated deployment
-  for multi-modal US freight network analysis.
+  Explore the architecture, implementation, and automation of a freight network
+  documentation platform using Sphinx and geospatial data.
 tags:
   - freight-analysis
   - documentation
@@ -15,20 +15,31 @@ tags:
   - sphinx
   - jupyter
   - github-pages
-seoPrimaryKeyword: freight network analysis
-seoSecondaryKeywords:
   - geospatial analysis
-  - sphinx documentation
-  - jupyter notebooks
-  - github pages
+  - python
+  - ghp-import
+  - Jupyter Notebooks
+  - data visualization
+  - freight transportation
+seoPrimaryKeyword: freight network documentation
+seoSecondaryKeywords:
+  - data-driven freight analysis
+  - automated documentation deployment
+  - geospatial data handling
+  - Python project structure
+  - Sphinx extensions
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The project focuses heavily on a Sphinx-based documentation site with integrated Jupyter notebooks
-  and automated GitHub Pages deployment. While it includes automation and data analysis elements,
-  the primary emphasis is on static site generation and documentation framework, aligning best with
-  the 'static' family which covers Sphinx, documentation, blogging, and static site deployment.
+  The project focuses heavily on a Sphinx-based documentation site with
+  integrated Jupyter notebooks and automated GitHub Pages deployment. While it
+  includes automation and data analysis elements, the primary emphasis is on
+  static site generation and documentation framework, aligning best with the
+  'static' family which covers Sphinx, documentation, blogging, and static site
+  deployment.
+kind: project
+id: github-freight-website-up-to-date
 ---
 
 # freight-website-up-to-date: Technical Overview and Implementation Notes
